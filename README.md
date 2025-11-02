@@ -38,3 +38,10 @@ Flags:
 | `-password`     | string   | Pairing password                                   | random               |
 | `-sleep`        | duration | Sleep between discovery attempts                   | 1s                   |
 | `-timeout`      | duration | Per-query mDNS timeout                             | 2s                   |
+
+## See also
+
+- https://github.com/eeriemyxi/lyto (Python)
+- https://github.com/Vazgen005/adb-wifi-py (Python)
+- https://github.com/saleehk/adb-wifi (JS)
+- https://github.com/AngelKrak/adb-qc (JS)
