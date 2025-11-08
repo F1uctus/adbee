@@ -14,7 +14,7 @@ without Android Studio or desktop environment installed.
 
 ## Install
 
-- Download a binary from Releases (tag v1.x), or build:
+Download a binary from [Releases](https://github.com/F1uctus/adbee/releases), or build:
   - Linux/macOS: `VERSION=v1.0.0 ./build.sh`
   - Windows: `set VERSION=v1.0.0 && build.bat`
 
